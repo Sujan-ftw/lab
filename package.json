@@ -1,0 +1,9 @@
+{
+  "name": "psg-pems",
+  "version": "1.0.0",
+  "description": "PSG Polytechnic College Practical Examination Management System",
+  "scripts": {
+    "dev": "node --watch server/index.js",
+    "start": "node server/index.js"
+  }
+}
